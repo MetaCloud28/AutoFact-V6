@@ -32,10 +32,10 @@ namespace AutoFact
 
                 // Update the entrepreneur with the new values
                 Entrepreneur.Nom = txtNom.Text;
-                Entrepreneur.Tel = int.Parse(txtTelephone.Text);
+                Entrepreneur.Tel = long.Parse(txtTelephone.Text);
                 Entrepreneur.Email = txtEmail.Text;
                 Entrepreneur.Adresse = txtAdresse.Text;
-                Entrepreneur.Id= int.Parse(txtid.Text);
+                Entrepreneur.Id= long.Parse(txtid.Text);
 
                 // Debug output for comparison
                 Console.WriteLine("Original Entrepreneur: " + originalEntrepreneur.ToString());
@@ -53,7 +53,7 @@ namespace AutoFact
                     using (SQLiteConnection conn = new SQLiteConnection(connexionString))
                     {
                         conn.Open();
-                        string query = "UPDATE auto_entrepreneur SET Nom = @Nom, Téléphone = @Tel, email = @Email, adresse = @Adresse";
+                        string query = "UPDATE auto_entrepreneur SET Nom = @Nom, Téléphone = @Tel, email = @Email, adresse = @Adresse ";
                         //using (SQLiteCommand cmd = new SQLiteCommand(" update auto_entrepreneur SET Nom ='" + txtNom.Text + "', Téléphone = '" + txtTelephone.Text + "', email='" + txtEmail.Text + "', adresse = '" + txtAdresse.Text + "', WHERE id = @Id ", conn))
                         using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
                         {
@@ -63,7 +63,7 @@ namespace AutoFact
                             cmd.Parameters.AddWithValue("@Adresse", Entrepreneur.Adresse);
                             cmd.Parameters.AddWithValue("@Id", Entrepreneur.Id);
 
-                            int rowsAffected = cmd.ExecuteNonQuery();
+                            float rowsAffected = cmd.ExecuteNonQuery();
 
                             if (rowsAffected > 0)
                             {

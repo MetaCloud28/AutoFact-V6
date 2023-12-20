@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TURMSLnoIZI9diraGhrE3AkkbpBQh8a8QUpjFhTKGS3d2fNTeVo19f94Tzn7vuVztYk+ii0srDzKtvCa/Ipziw==",
+  "dgSpecHash": "G4uZLsk/3Pn1DgZSZUcJSQJC4wS63EFtskA6hDtUoyw79ecwap+fmmzfwo8UvSv5oc0kI/i26BHVXxwPe9s9SQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brunel\\Documents\\test autofact\\AutoFactV2-main\\AutoFactV2-main\\AutoFact\\AutoFact.csproj",
+  "projectFilePath": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\AutoFact.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brunel\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\brunel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -55,12 +55,12 @@ namespace AutoFact
                         {
                             AutoEntrepreneur entrepreneur = new AutoEntrepreneur();
 
-                            if (int.TryParse(reader["id"].ToString(), out int id))
+                            if (long.TryParse(reader["id"].ToString(), out long id))
                                 entrepreneur.Id = id;
                             else
                                 entrepreneur.Id = 0; // Ou une valeur par défaut
 
-                            if (int.TryParse(reader["Téléphone"].ToString(), out int tel))
+                            if (long.TryParse(reader["Téléphone"].ToString(), out long tel))
                                 entrepreneur.Tel = tel;
                             else
                                 entrepreneur.Tel = 0; // Ou une valeur par défaut
@@ -75,12 +75,12 @@ namespace AutoFact
                         {
                             AutoEntrepreneur entrepreneur = new AutoEntrepreneur();
 
-                            if (!reader.IsDBNull(reader.GetOrdinal("id")) && int.TryParse(reader["id"].ToString(), out int id))
+                            if (!reader.IsDBNull(reader.GetOrdinal("id")) && long.TryParse(reader["id"].ToString(), out long id))
                                 entrepreneur.Id = id;
                             else
                                 entrepreneur.Id = 0; // Ou une valeur par défaut
 
-                            if (!reader.IsDBNull(reader.GetOrdinal("Téléphone")) && int.TryParse(reader["Téléphone"].ToString(), out int tel))
+                            if (!reader.IsDBNull(reader.GetOrdinal("Téléphone")) && long.TryParse(reader["Téléphone"].ToString(), out long tel))
                                 entrepreneur.Tel = tel;
                             else
                                 entrepreneur.Tel = 0; // Ou une valeur par défaut
@@ -162,10 +162,9 @@ namespace AutoFact
 
     public class AutoEntrepreneur
     {
-        public int Id { get; set; }
-
-        public int Siret {  get; set; }
-        public int Tel { get; set; }
+        public long Id { get; set; }
+        public long Siret { get; set; }
+        public long Tel { get; set; }
         public string Nom { get; set; }
         public string Email { get; set; }
         public string Adresse { get; set; }
@@ -187,9 +186,10 @@ namespace AutoFact
 
         public override int GetHashCode()
         {
-            return HashCode.Combine(Id, Tel, Nom, Email, Adresse);
+            return HashCode.Combine((long)Id, (long)Tel, Nom, Email, Adresse);
         }
 
     }
+
 
 }
