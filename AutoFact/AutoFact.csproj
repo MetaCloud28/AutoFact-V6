@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Views\MetaCloudlogo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\MetaCloudlogo.png" />
+	<Resource Include="images\menu.png" />
+	<Resource Include="images\MetaCloudhouse.png" />
+	<Resource Include="images\PARA.png" />
+	<Resource Include="images\stats.png" />
+	<Resource Include="images\logoae.png" />
+	<Resource Include="images\logout.png" />
+	<Resource Include="images\LeX.png" />
+	<Resource Include="images\reduire.png" />
+	<Resource Include="images\fullscreen.png" />
+
+
+
+
+  </ItemGroup>
+
+</Project>

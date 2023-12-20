@@ -1,0 +1,80 @@
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\bin\Debug\net6.0-windows\AutoFact.exe
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\bin\Debug\net6.0-windows\AutoFact.deps.json
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\bin\Debug\net6.0-windows\AutoFact.runtimeconfig.json
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\bin\Debug\net6.0-windows\AutoFact.dll
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\bin\Debug\net6.0-windows\AutoFact.pdb
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\AutoFact_MarkupCompile.cache
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\AutoFact.g.resources
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\AutoFact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\AutoFact.AssemblyInfoInputs.cache
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\AutoFact.AssemblyInfo.cs
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\AutoFact.csproj.CoreCompileInputs.cache
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\AutoFact.dll
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\refint\AutoFact.dll
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\AutoFact.pdb
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\AutoFact.genruntimeconfig.cache
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\ref\AutoFact.dll
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\Page1.g.cs
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\AutoFact_MarkupCompile.lref
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\Page1.baml
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\ETATS.g.cs
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\ETATS.baml
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\parametres.g.cs
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\parametres.baml
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\fav.g.cs
+C:\Users\ETTABI\source\repos\AutoFact\AutoFact\obj\Debug\net6.0-windows\fav.baml
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\AutoFact.exe
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\AutoFact.deps.json
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\AutoFact.runtimeconfig.json
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\AutoFact.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\AutoFact.pdb
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\ETATS.g.cs
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\fav.g.cs
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\Page1.g.cs
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\parametres.g.cs
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact_MarkupCompile.cache
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact_MarkupCompile.lref
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\ETATS.baml
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\fav.baml
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\Page1.baml
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\parametres.baml
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact.g.resources
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact.AssemblyInfoInputs.cache
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact.AssemblyInfo.cs
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact.csproj.CoreCompileInputs.cache
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\refint\AutoFact.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact.pdb
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact.genruntimeconfig.cache
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\ref\AutoFact.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact.csproj.AssemblyReference.cache
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\AutoFact.csproj.CopyComplete
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\Views\LoginPage.baml
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\Views\RegisterPage.baml
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\Views\WelComePage.baml
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\Views\LoginPage.g.cs
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\Views\RegisterPage.g.cs
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\Views\WelComePage.g.cs
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\ModifierAutoEntrepreneurPage.baml
+C:\Users\brunel\Documents\test autofact\AutoFactV2-main\AutoFactV2-main\AutoFact\obj\Debug\net6.0-windows\ModifierAutoEntrepreneurPage.g.cs

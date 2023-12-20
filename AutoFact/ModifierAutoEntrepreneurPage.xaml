@@ -1,0 +1,38 @@
+﻿<Page x:Class="AutoFact.ModifierAutoEntrepreneurPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Modifier Auto-Entrepreneur">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Margin="10">
+            <TextBlock Text="Modifier Auto Entrepreneur" FontSize="18" FontWeight="Bold"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Margin="10">
+            <Label Content="Nom:"/>
+            <TextBox x:Name="txtNom" Text="{Binding Nom, Mode=TwoWay}" Margin="0,0,0,5" />
+
+            <Label Content="Téléphone:"/>
+            <TextBox x:Name="txtTelephone" Text="{Binding Tel, Mode=TwoWay}" Margin="0,0,0,5"/>
+
+            <Label Content="Email:"/>
+            <TextBox x:Name="txtEmail" Text="{Binding Email, Mode=TwoWay}" Margin="0,0,0,5"/>
+
+            <Label Content="Adresse:"/>
+            <TextBox x:Name="txtAdresse" Text="{Binding Adresse, Mode=TwoWay}" Margin="0,0,0,5"/>
+
+            <Label Content="id:"/>
+            <TextBox x:Name="txtid" Text="{Binding Id, Mode=TwoWay}" Margin="0,0,0,5"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Enregistrer" Width="80" Margin="0,0,10,0" Click="Enregistrer_Click"/>
+            <Button Content="Annuler" Width="80" Click="Annuler_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
