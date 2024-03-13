@@ -1,0 +1,18 @@
+﻿<Window x:Class="AutoFact.AjouterService"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ajouter un service" Height="300" Width="400">
+    <Grid>
+        <!-- Ajoutez les contrôles nécessaires pour entrer les détails du service -->
+        <StackPanel>
+            <Label>Nom du service :</Label>
+            <TextBox x:Name="NomTextBox" Width="200" Margin="5"/>
+
+            <Label>Prix unitaire(€):</Label>
+            <TextBox x:Name="PrixTextBox" Width="200" Margin="5"/>
+
+            <Button Content="Ajouter" Click="AjouterServiceButton_Click" Margin="5"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

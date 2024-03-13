@@ -1,0 +1,17 @@
+﻿<Window x:Class="AutoFact.ModifierService"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Modifier un Service" Height="300" Width="400">
+
+    <Grid>
+        <StackPanel Margin="10">
+            <Label>Nom du service :</Label>
+            <TextBox x:Name="Nametxt" Width="200" Margin="5"/>
+
+            <Label>Prix unitaire(€):</Label>
+            <TextBox x:Name="Prixtxt" Width="200" Margin="5"/>
+
+            <Button Content="Modifier" Click="ModifierButton_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
