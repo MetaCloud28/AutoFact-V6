@@ -27,6 +27,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="AjouterService.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="ETATS.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -39,10 +42,19 @@
     <Page Update="ModifierAutoEntrepreneurPage.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="ModifierService.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="NewClients.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Page1.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="parametres.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Services.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\LoginPage.xaml">

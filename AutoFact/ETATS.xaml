@@ -10,15 +10,14 @@
 
     <Grid>
         <Border Background="#2F2E2A" CornerRadius="15">
-            <Label x:Name="ETATS_label" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Foreground="White">
-                <ListView x:Name="listViewClients" d:ItemsSource="{d:SampleData ItemCount=5}">
-                    <ListView.View>
-                        <GridView>
-                            <GridViewColumn/>
-                        </GridView>
-                    </ListView.View>
-                </ListView>
-            </Label>
+            <Label x:Name="ETATS_label" Content="ETATS" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="36" Foreground="White" Margin="10,0,0,0"/>
         </Border>
+        <ListView x:Name="listViewClients" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="258,115,258,69">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
     </Grid>
 </Page>

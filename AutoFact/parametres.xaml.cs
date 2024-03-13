@@ -4,6 +4,7 @@ using System.Windows.Controls;
 using System.Data.SQLite;
 using System.Windows;
 using System.ComponentModel;
+using System.Windows.Input;
 
 namespace AutoFact
 {
@@ -43,61 +44,45 @@ namespace AutoFact
             List<AutoEntrepreneur> autoEntrepreneurs = new List<AutoEntrepreneur>();
             string connectionString = "Data Source=C:\\Users\\brunel\\Documents\\test autofact\\AutoFactV2-main\\AutoFactV2-main\\AutoFact\\database.db;Version=3;";
 
-            using (SQLiteConnection conn = new SQLiteConnection(connectionString))
+            try
             {
-                conn.Open();
-                string query = "SELECT * FROM auto_entrepreneur";
-                using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
+                using (SQLiteConnection conn = new SQLiteConnection(connectionString))
                 {
-                    using (SQLiteDataReader reader = cmd.ExecuteReader())
+                    conn.Open();
+                    string query = "SELECT * FROM auto_entrepreneur";
+                    using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
                     {
-                        while (reader.Read())
+                        using (SQLiteDataReader reader = cmd.ExecuteReader())
                         {
-                            AutoEntrepreneur entrepreneur = new AutoEntrepreneur();
+                            while (reader.Read())
+                            {
+                                AutoEntrepreneur entrepreneur = new AutoEntrepreneur();
 
-                            if (long.TryParse(reader["id"].ToString(), out long id))
-                                entrepreneur.Id = id;
-                            else
-                                entrepreneur.Id = 0; // Ou une valeur par défaut
+                                if (long.TryParse(reader["id"].ToString(), out long id))
+                                    entrepreneur.Id = id;
+                                else
+                                    entrepreneur.Id = 0; // Ou une valeur par défaut
 
-                            if (long.TryParse(reader["Téléphone"].ToString(), out long tel))
-                                entrepreneur.Tel = tel;
-                            else
-                                entrepreneur.Tel = 0; // Ou une valeur par défaut
+                                entrepreneur.Tel = reader["Tel"].ToString(); // Correction ici
+                                entrepreneur.Nom = reader["Nom"].ToString();
+                                entrepreneur.Email = reader["email"].ToString();
+                                entrepreneur.Adresse = reader["adresse"].ToString();
+                                entrepreneur.Siret = reader["Siret"].ToString();
 
-                            entrepreneur.Nom = reader["Nom"].ToString();
-                            entrepreneur.Email = reader["email"].ToString();
-                            entrepreneur.Adresse = reader["adresse"].ToString();
-
-                            autoEntrepreneurs.Add(entrepreneur);
+                                autoEntrepreneurs.Add(entrepreneur);
+                            }
                         }
-                        while (reader.Read())
-                        {
-                            AutoEntrepreneur entrepreneur = new AutoEntrepreneur();
-
-                            if (!reader.IsDBNull(reader.GetOrdinal("id")) && long.TryParse(reader["id"].ToString(), out long id))
-                                entrepreneur.Id = id;
-                            else
-                                entrepreneur.Id = 0; // Ou une valeur par défaut
-
-                            if (!reader.IsDBNull(reader.GetOrdinal("Téléphone")) && long.TryParse(reader["Téléphone"].ToString(), out long tel))
-                                entrepreneur.Tel = tel;
-                            else
-                                entrepreneur.Tel = 0; // Ou une valeur par défaut
-
-                            entrepreneur.Nom = reader["Nom"].ToString();
-                            entrepreneur.Email = reader["email"].ToString();
-                            entrepreneur.Adresse = reader["adresse"].ToString();
-
-                            autoEntrepreneurs.Add(entrepreneur);
-                        }
-
                     }
                 }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error loading auto-entrepreneurs: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
 
             return autoEntrepreneurs;
         }
+
         private void ModifierAutoEntrepreneur_Click(object sender, RoutedEventArgs e)
         {
             if (listViewClients.SelectedItem != null)
@@ -117,28 +102,30 @@ namespace AutoFact
                 }
             }
         }
+        private void ListViewClients_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            // Assuming you're handling double-clicks on the ListView itself
+            // Call the same method as when the button is clicked
+            ModifierAutoEntrepreneur_Click(sender, e);
+        }
 
-
-
-
-
-        private void ModifierAutoEntrepreneur(AutoEntrepreneur entrepreneur)
+                private void ModifierAutoEntrepreneur(AutoEntrepreneur entrepreneur)
         {
             try
             {
-                // Mise à jour dans la base de données
                 string connectionString = "Data Source=C:\\Users\\brunel\\Documents\\test autofact\\AutoFactV2-main\\AutoFactV2-main\\AutoFact\\database.db;Version=3;";
                 using (SQLiteConnection conn = new SQLiteConnection(connectionString))
                 {
                     conn.Open();
-                    string query = "UPDATE auto_entrepreneur SET Nom = @Nom, Téléphone = @Tel, email = @Email, adresse = @Adresse WHERE id = @Id";
+
+                    string query = "UPDATE auto_entrepreneur SET Nom = @Nom, Tel = @Tel, email = @Email, adresse = @Adresse WHERE Siret = @Siret";
                     using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
                     {
                         cmd.Parameters.AddWithValue("@Nom", entrepreneur.Nom);
                         cmd.Parameters.AddWithValue("@Tel", entrepreneur.Tel);
                         cmd.Parameters.AddWithValue("@Email", entrepreneur.Email);
                         cmd.Parameters.AddWithValue("@Adresse", entrepreneur.Adresse);
-                        cmd.Parameters.AddWithValue("@Id", entrepreneur.Id);
+                        cmd.Parameters.AddWithValue("@Siret", entrepreneur.Siret);
                         cmd.ExecuteNonQuery();
                     }
                 }
@@ -149,6 +136,7 @@ namespace AutoFact
             }
         }
 
+
         private void listViewClients_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
@@ -158,38 +146,78 @@ namespace AutoFact
         {
             throw new NotImplementedException();
         }
+        private void SupprimerAutoEntrepreneur_Click(object sender, RoutedEventArgs e)
+        {
+            if (listViewClients.SelectedItem != null)
+            {
+                AutoEntrepreneur entrepreneurSelectionne = (AutoEntrepreneur)listViewClients.SelectedItem;
+
+                if (MessageBox.Show($"Voulez-vous vraiment supprimer l'auto-entrepreneur {entrepreneurSelectionne.Nom} ?", "Supprimer", MessageBoxButton.YesNo, MessageBoxImage.Warning) == MessageBoxResult.Yes)
+                {
+                    SupprimerAutoEntrepreneur(entrepreneurSelectionne);
+                    LoadAuto_Entrepreneur();
+                }
+            }
+        }
+
+        private void SupprimerAutoEntrepreneur(AutoEntrepreneur entrepreneur)
+        {
+            try
+            {
+                string connectionString = "Data Source=C:\\Users\\brunel\\Documents\\test autofact\\AutoFactV2-main\\AutoFactV2-main\\AutoFact\\database.db;Version=3;";
+                using (SQLiteConnection conn = new SQLiteConnection(connectionString))
+                {
+                    conn.Open();
+
+                    string query = "DELETE FROM auto_entrepreneur WHERE Siret = @Siret";
+                    using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
+                    {
+                        cmd.Parameters.AddWithValue("@Siret", entrepreneur.Siret);
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error deleting auto-entrepreneur: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+
+
     }
 
     public class AutoEntrepreneur
+{
+    public long Id { get; set; }
+    public string Siret { get; set; }
+    public string Tel { get; set; }
+    public string Nom { get; set; }
+    public string Email { get; set; }
+    public string Adresse { get; set; }
+
+    public override bool Equals(object obj)
     {
-        public long Id { get; set; }
-        public long Siret { get; set; }
-        public long Tel { get; set; }
-        public string Nom { get; set; }
-        public string Email { get; set; }
-        public string Adresse { get; set; }
-
-        public override bool Equals(object obj)
+        if (obj == null || GetType() != obj.GetType())
         {
-            if (obj == null || GetType() != obj.GetType())
-            {
-                return false;
-            }
-
-            AutoEntrepreneur other = (AutoEntrepreneur)obj;
-            return Id == other.Id &&
-                   Tel == other.Tel &&
-                   string.Equals(Nom, other.Nom, StringComparison.Ordinal) &&
-                   string.Equals(Email, other.Email, StringComparison.Ordinal) &&
-                   string.Equals(Adresse, other.Adresse, StringComparison.Ordinal);
+            return false;
         }
 
-        public override int GetHashCode()
-        {
-            return HashCode.Combine((long)Id, (long)Tel, Nom, Email, Adresse);
-        }
-
+        AutoEntrepreneur other = (AutoEntrepreneur)obj;
+        return Id == other.Id &&
+               string.Equals(Siret, other.Siret, StringComparison.Ordinal) &&
+               string.Equals(Tel, other.Tel, StringComparison.Ordinal) &&
+               string.Equals(Nom, other.Nom, StringComparison.Ordinal) &&
+               string.Equals(Email, other.Email, StringComparison.Ordinal) &&
+               string.Equals(Adresse, other.Adresse, StringComparison.Ordinal);
     }
+
+    public override int GetHashCode()
+    {
+        return HashCode.Combine(Id, Siret, Tel, Nom, Email, Adresse);
+    }
+}
+
 
 
 }

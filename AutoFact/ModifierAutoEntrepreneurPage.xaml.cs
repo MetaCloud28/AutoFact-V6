@@ -23,7 +23,7 @@ namespace AutoFact
                 // Clone the original entrepreneur to compare changes
                 AutoEntrepreneur originalEntrepreneur = new AutoEntrepreneur
                 {
-                    Id = Entrepreneur.Siret,
+                    Siret = Entrepreneur.Siret,
                     Nom = Entrepreneur.Nom,
                     Tel = Entrepreneur.Tel,
                     Email = Entrepreneur.Email,
@@ -32,28 +32,30 @@ namespace AutoFact
 
                 // Update the entrepreneur with the new values
                 Entrepreneur.Nom = txtNom.Text;
-                Entrepreneur.Tel = long.Parse(txtTelephone.Text);
+                Entrepreneur.Tel = txtTel.Text;
                 Entrepreneur.Email = txtEmail.Text;
                 Entrepreneur.Adresse = txtAdresse.Text;
                 Entrepreneur.Id= long.Parse(txtid.Text);
+                Entrepreneur.Siret = txtSiret.Text;
 
                 // Debug output for comparison
                 Console.WriteLine("Original Entrepreneur: " + originalEntrepreneur.ToString());
                 Console.WriteLine("Update Entrepreneur: " + Entrepreneur.ToString());
 
                 // Compare the original and updated entrepreneurs
-                if (originalEntrepreneur.Id != Entrepreneur.Id ||
-                    originalEntrepreneur.Nom != Entrepreneur.Nom ||
-                    originalEntrepreneur.Tel != Entrepreneur.Tel ||
-                    originalEntrepreneur.Email != Entrepreneur.Email ||
-                    originalEntrepreneur.Adresse != Entrepreneur.Adresse)
+                if (originalEntrepreneur.Id != Entrepreneur.@Id ||
+                    originalEntrepreneur.Nom != Entrepreneur.@Nom ||
+                    originalEntrepreneur.Tel != Entrepreneur.@Tel ||
+                    originalEntrepreneur.Email != Entrepreneur.@Email ||
+                    originalEntrepreneur.Siret != Entrepreneur.@Siret ||
+                    originalEntrepreneur.Adresse != Entrepreneur.@Adresse)
                 {
                     // Mettez à jour la base de données avec les nouvelles informations
                     string connexionString = "Data Source=C:\\Users\\brunel\\Documents\\test autofact\\AutoFactV2-main\\AutoFactV2-main\\AutoFact\\database.db;Version=3;";
                     using (SQLiteConnection conn = new SQLiteConnection(connexionString))
                     {
                         conn.Open();
-                        string query = "UPDATE auto_entrepreneur SET Nom = @Nom, Téléphone = @Tel, email = @Email, adresse = @Adresse ";
+                        string query = "UPDATE auto_entrepreneur SET Id = @Id, Nom = @Nom, Tel = @Tel, email = @Email, adresse = @Adresse WHERE Siret = @Siret";
                         //using (SQLiteCommand cmd = new SQLiteCommand(" update auto_entrepreneur SET Nom ='" + txtNom.Text + "', Téléphone = '" + txtTelephone.Text + "', email='" + txtEmail.Text + "', adresse = '" + txtAdresse.Text + "', WHERE id = @Id ", conn))
                         using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
                         {
@@ -62,6 +64,7 @@ namespace AutoFact
                             cmd.Parameters.AddWithValue("@Email", Entrepreneur.Email);
                             cmd.Parameters.AddWithValue("@Adresse", Entrepreneur.Adresse);
                             cmd.Parameters.AddWithValue("@Id", Entrepreneur.Id);
+                            cmd.Parameters.AddWithValue("@Siret", Entrepreneur.Siret);
 
                             float rowsAffected = cmd.ExecuteNonQuery();
 

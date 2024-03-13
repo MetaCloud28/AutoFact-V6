@@ -9,13 +9,13 @@
       Title="Paramètres">
 
     <Grid>
-        
+
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <ListView x:Name="listViewClients" Margin="0,0,0,194" >
+        <ListView x:Name="listViewClients" Margin="0,0,0,194" MouseDoubleClick="ListViewClients_MouseDoubleClick">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}"/>
@@ -23,11 +23,13 @@
                     <GridViewColumn Header="Téléphone" DisplayMemberBinding="{Binding Tel}"/>
                     <GridViewColumn Header="Adresse" DisplayMemberBinding="{Binding Adresse}"/>
                     <GridViewColumn Header="Email" DisplayMemberBinding="{Binding Email}"/>
+                    <GridViewColumn Header="Siret" DisplayMemberBinding="{Binding Siret}"/>
                 </GridView>
             </ListView.View>
         </ListView>
 
         <!-- Bouton à l'intérieur du Grid en bas -->
         <Button Grid.Row="1" Content="Modifier" Click="ModifierAutoEntrepreneur_Click"/>
+        <Button Content="Supprimer" Click="SupprimerAutoEntrepreneur_Click" Margin="0,410,0,0"/>
     </Grid>
 </Page>

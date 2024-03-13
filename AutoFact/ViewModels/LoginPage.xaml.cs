@@ -49,10 +49,10 @@ namespace RegistrationLoginConcept
             }
         }
 
-        private void txtid_KeyUp(object sender, KeyEventArgs e)
+        private void txtSiret_KeyUp(object sender, KeyEventArgs e)
         {
             // Check if the pressed key is Enter
-            if (e.Key == Key.Enter && sender == txtid)
+            if (e.Key == Key.Enter && sender == txtSiret)
             {
                 // Invoke the button click event programmatically
                 Button_Click(sender, e);
@@ -61,28 +61,28 @@ namespace RegistrationLoginConcept
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (txtid.Text.Length == 0)
+            if (txtSiret.Text.Length == 0)
             {
                 errormessage.Text = "Enter an SIRET";
-                txtid.Focus();
+                txtSiret.Focus();
             }
-            else if (!Regex.IsMatch(txtid.Text, "[0-9]{14}"))
+            else if (!Regex.IsMatch(txtSiret.Text, "[0-9]{14}"))
             {
                 errormessage.Text = "Enter a valid SIRET.";
-                txtid.Select(0, txtid.Text.Length);
-                txtid.Focus();
+                txtSiret.Select(0, txtSiret.Text.Length);
+                txtSiret.Focus();
             }
             else
             {
-                string id = txtid.Text;
+                string Siret = txtSiret.Text;
 
                 using (SQLiteConnection con = new SQLiteConnection("Data Source=C:\\Users\\brunel\\Documents\\test autofact\\AutoFactV2-main\\AutoFactV2-main\\AutoFact\\database.db;Version=3;"))
                 {
                     con.Open();
 
-                    using (SQLiteCommand cmd = new SQLiteCommand("SELECT * FROM auto_entrepreneur WHERE Id = @Id", con))
+                    using (SQLiteCommand cmd = new SQLiteCommand("SELECT * FROM auto_entrepreneur WHERE Siret = @Siret", con))
                     {
-                        cmd.Parameters.AddWithValue("@Id", id);
+                        cmd.Parameters.AddWithValue("@Siret", Siret);
 
                         using (SQLiteDataAdapter da = new SQLiteDataAdapter(cmd))
                         {

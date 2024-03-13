@@ -52,38 +52,45 @@
                 <Label Content="HOME" HorizontalAlignment="Left" Margin="20,179,0,0" VerticalAlignment="Top" />
 
                 <Button Name="fav_button" Width="50" Height="30" Background="Transparent" BorderBrush="Transparent" Margin="18,214,62,472" Click="fav_button_Click" >
-                    <Image Source="/images/stats.png"></Image>
+                    <Image Source="../images/stats.png"></Image>
                 </Button>
                 <Label Content="FAVORIS" HorizontalAlignment="Left" Margin="15,244,0,0" VerticalAlignment="Top" />
 
 
                 <Button Name="para_button" Width="50" Height="30" Background="Transparent" BorderBrush="Transparent" Margin="18,577,62,109" Click="para_button_Click">
-                    <Image Source=" /images/PARA.png"></Image>
+                    <Image Source=" ../images/PARA.png"></Image>
                 </Button>
 
                 <Button Name="menu_button" Width="50" Height="30" Background="Transparent" BorderBrush="Transparent" Margin="18,276,62,410" Click="etats_button_Click">
-                    <Image Source=" /images/menu.png"></Image>
+                    <Image Source=" ../images/menu.png"></Image>
+                </Button>
+
+                <Button Name="services_button" Background="Transparent" BorderBrush="Transparent" Margin="18,343,60,341" Click="services_button_Click">
+                    <Image Source=" ../images/job-promotion.png"></Image>
                 </Button>
 
                 <Button Name="stats_button" Width="50" Height="30" Background="Transparent" BorderBrush="Transparent" Margin="18,625,62,61" RenderTransformOrigin="0.567,1.056" Click="close_button_Click">
-                    <Image Source=" /images/logout.png"/>
+                    <Image Source=" ../images/logout.png"/>
                 </Button>
 
                 <Image Source="/Views/menu.png" Margin="32,15,70,141"></Image>
                 <Label Content="ETATS" HorizontalAlignment="Left" Margin="22,306,0,0" VerticalAlignment="Top" />
 
-                <Image Source="/images/logoae.png" Grid.Column="1" Margin="423,-15,164,636"/>
+                <Image Source="../images/logoae.png" Grid.Column="1" Margin="423,-15,164,636"/>
 
                 <Button Name="close_button" Background="Transparent" BorderBrush="Transparent" Margin="231,-11,-9,707" Grid.Column="2"  Click="close_button_Click">
-                    <Image Source=" /images/LeX.png"></Image>
+                    <Image Source=" ../images/LeX.png"></Image>
                 </Button>
 
 
                 <Button Name="reduc_button" Background="Transparent" BorderBrush="Transparent" Margin="207,-11,15,707" Grid.Column="2"  Click="reduc_button_Click">
-                    <Image Source=" /images/reduire.png"></Image>
+                    <Image Source=" ../images/reduire.png"></Image>
                 </Button>
 
+
+
                 <Frame Name="contentFrame" Grid.Column="1" Margin="102,88,52,42" Grid.ColumnSpan="2" />
+                <Label Content="SERVICES" HorizontalAlignment="Left" Margin="12,380,0,0" VerticalAlignment="Top" />
 
 
 

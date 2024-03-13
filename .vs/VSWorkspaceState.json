@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AutoFact"
+    "\\AutoFact",
+    "\\AutoFact\\ViewModels",
+    "\\AutoFact\\Views"
   ],
-  "SelectedNode": "\\AutoFact\\parametres.xaml.cs",
+  "SelectedNode": "\\AutoFact\\parametres.xaml",
   "PreviewInSolutionExplorer": false
 }

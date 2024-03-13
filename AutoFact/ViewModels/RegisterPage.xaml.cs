@@ -165,13 +165,13 @@ namespace RegistrationLoginConcept
 
                             else
                             {
-                                using (SQLiteCommand cmd = new SQLiteCommand("INSERT INTO auto_entrepreneur VALUES(@Id, @Nom, @Téléphone, @adresse, @email)", con))
+                                using (SQLiteCommand cmd = new SQLiteCommand("INSERT INTO auto_entrepreneur (Nom, Siret, Tel, adresse, email) VALUES(@Nom, @Siret, @Tel, @adresse, @email)", con))
                                 {
                                     cmd.Parameters.AddWithValue("@Nom", txtUserName.Text);
-                                    cmd.Parameters.AddWithValue("@Id", txtsiret.Text);
-                                    cmd.Parameters.AddWithValue("@email", txtemail.Text);
-                                    cmd.Parameters.AddWithValue("@Téléphone", txttel.Text);
+                                    cmd.Parameters.AddWithValue("@Siret", txtsiret.Text);
+                                    cmd.Parameters.AddWithValue("@Tel", txttel.Text);
                                     cmd.Parameters.AddWithValue("@adresse", txtaddress.Text);
+                                    cmd.Parameters.AddWithValue("@email", txtemail.Text);
 
                                     con.Open();
                                     cmd.ExecuteNonQuery();
@@ -179,11 +179,12 @@ namespace RegistrationLoginConcept
 
                                     lblmessage.Visibility = System.Windows.Visibility.Visible;
                                     lblmessage.Foreground = Brushes.Green;
-                                    lblmessage.Content = "Registration Successfully ";
+                                    lblmessage.Content = "Inscription réussie";
                                     LoginPage mm = new LoginPage();
                                     mm.Show();
                                     Close();
                                 }
+
                             }
                         }
                     }

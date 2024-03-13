@@ -13,7 +13,6 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-
 namespace AutoFact
 {
     /// <summary>
@@ -62,9 +61,21 @@ namespace AutoFact
 
         private void para_button_Click(object sender, RoutedEventArgs e)
         {
-            // Example: Navigate to a page of type ModifierAutoEntrepreneurPage
             contentFrame.Navigate(new parametres());
         }
+
+        private void services_button_Click(object sender, RoutedEventArgs e)
+        {
+            // Obtenez la référence de NavigationService à partir du Frame
+            NavigationService navigationService = contentFrame.NavigationService;
+
+            // Créez une nouvelle instance de la page Services
+            Services servicesPage = new Services();
+
+            // Utilisez la NavigationService pour effectuer la navigation
+            navigationService.Navigate(servicesPage);
+        }
+
         //Fin navigation pour les vues
 
 

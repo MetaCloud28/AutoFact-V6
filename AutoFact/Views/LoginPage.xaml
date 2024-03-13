@@ -39,7 +39,7 @@ please click on
                 </StackPanel>
             </Label>
 
-            <TextBox x:Name="txtid" Margin="99,-25,0,0" KeyUp="txtid_KeyUp" />
+            <TextBox x:Name="txtSiret" Margin="99,-25,0,0" KeyUp="txtSiret_KeyUp" />
             <Button Content="Login" Margin="150,10,0,0" Width="100" Click="Button_Click" Background="#FFE64241"></Button>
             <TextBlock Height="23" HorizontalAlignment="Left" x:Name="errormessage" VerticalAlignment="Top" Width="247" Margin="110,25,0,0" OpacityMask="Crimson" Foreground="#FFE5572C" />
         </StackPanel>
