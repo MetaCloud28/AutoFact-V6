@@ -1,0 +1,21 @@
+﻿<Page x:Class="AutoFact.Devis"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Devis">
+    <Grid>
+        <!-- Layout for selecting client, service, and state -->
+        <StackPanel Margin="20">
+            <TextBlock Text="Sélectionner un client:"/>
+            <ComboBox x:Name="clientComboBox" Width="200" Margin="0 5 0 10"/>
+
+            <TextBlock Text="Sélectionner un service:"/>
+            <ComboBox x:Name="serviceComboBox" Width="200" Margin="0 5 0 10"/>
+
+            <TextBlock Text="Sélectionner un état:"/>
+            <ComboBox x:Name="etatComboBox" Width="200" Margin="0 5 0 10"/>
+
+            <!-- Button for submitting the selection -->
+            <Button Content="Valider" Click="ValiderButton_Click" Width="100" Margin="0 20 0 0"/>
+        </StackPanel>
+    </Grid>
+</Page>

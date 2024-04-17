@@ -13,16 +13,19 @@
     <Compile Update="fav.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="ModifierAutoEntrepreneurPage.xaml.cs">
+    <Compile Update="ViewModels\ModifierAutoEntrepreneurPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="ModifierAutoEntrepreneurPage.xaml.cs">
+    <Compile Update="ViewModels\ModifierAutoEntrepreneurPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewModels\Devis.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Page1.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="parametres.xaml.cs">
+    <Compile Update="ViewModels\parametres.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -36,13 +39,16 @@
     <Page Update="fav.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="ModifierAutoEntrepreneurPage.xaml">
+    <Page Update="Views\ModifierAutoEntrepreneurPage.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="ModifierAutoEntrepreneurPage.xaml">
+    <Page Update="Views\ModifierAutoEntrepreneurPage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="ModifierService.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Devis.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="NewClients.xaml">
@@ -51,7 +57,7 @@
     <Page Update="Page1.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="parametres.xaml">
+    <Page Update="Views\parametres.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Services.xaml">

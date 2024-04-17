@@ -2,6 +2,7 @@
 using System.Collections.ObjectModel;
 using System.Windows.Controls;
 using System.Windows;
+using System.Windows.Input;
 
 namespace AutoFact
 {
@@ -42,5 +43,19 @@ namespace AutoFact
                 }
             }
         }
+        private void DevisClick(object sender, MouseButtonEventArgs e)
+        {
+            // Vérifiez d'abord si un élément a été réellement sélectionné
+            if (clientsListView.SelectedItem != null)
+            {
+                // Créez une nouvelle instance de la page "Devis"
+                Devis devisPage = new Devis();
+
+                // Naviguez vers la page "Devis"
+                NavigationService.Navigate(devisPage);
+            }
+        }
+
+
     }
 }

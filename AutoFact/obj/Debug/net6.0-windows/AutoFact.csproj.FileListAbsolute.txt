@@ -98,7 +98,6 @@ C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windo
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\fav.g.cs
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\ModifierAutoEntrepreneurPage.g.cs
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\Page1.g.cs
-C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\parametres.g.cs
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\Views\LoginPage.g.cs
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\Views\RegisterPage.g.cs
@@ -109,7 +108,6 @@ C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windo
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\ETATS.baml
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\fav.baml
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\Page1.baml
-C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\parametres.baml
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\AutoFact.g.resources
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\AutoFact.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\AutoFact.AssemblyInfoInputs.cache
@@ -136,3 +134,7 @@ C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\bin\Debug\net6.0-windo
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\Devis.baml
+C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\Devis.g.cs
+C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\Views\parametres.g.cs
+C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\Views\parametres.baml

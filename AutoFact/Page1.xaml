@@ -15,7 +15,7 @@
             <Label x:Name="Home_label" Content="HOME" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="36" Foreground="White" Margin="19,-6,0,0"/>
         </Border>
 
-        <ListView x:Name="clientsListView" Margin="20"  Grid.Row="1"/>
+        <ListView x:Name="clientsListView" Margin="20"  Grid.Row="1" MouseDoubleClick="DevisClick"/>
         
 
 

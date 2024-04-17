@@ -10,11 +10,11 @@ none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\App.xaml
-13-2062713535
+141883527964
 
-15266165444
+16691280654
 1971235279520
-AjouterService.xaml;ETATS.xaml;fav.xaml;ModifierAutoEntrepreneurPage.xaml;ModifierService.xaml;NewClients.xaml;Page1.xaml;parametres.xaml;Services.xaml;Views\LoginPage.xaml;Views\MainWindow.xaml;Views\RegisterPage.xaml;Views\WelComePage.xaml;
+AjouterService.xaml;ETATS.xaml;fav.xaml;ModifierService.xaml;NewClients.xaml;Page1.xaml;Services.xaml;Views\Devis.xaml;Views\LoginPage.xaml;Views\MainWindow.xaml;Views\ModifierAutoEntrepreneurPage.xaml;Views\parametres.xaml;Views\RegisterPage.xaml;Views\WelComePage.xaml;
 
 True
 
