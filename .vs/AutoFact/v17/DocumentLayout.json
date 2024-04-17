@@ -1,144 +1,140 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\",
+  "WorkspaceRootPath": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\viewmodels\\parametres.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\viewmodels\\parametres.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\viewmodels\\parametres.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\views\\parametres.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\views\\parametres.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\views\\parametres.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\modifierservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\modifierservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\modifierservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\services.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\services.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\services.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\etats.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\etats.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\etats.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\etats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\etats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\etats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\services.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\services.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\services.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\newclients.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\newclients.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\newclients.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\autofact.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\autofact.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\autofact.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\fav.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\fav.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\fav.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\ajouterservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\ajouterservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\ajouterservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\viewmodels\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\viewmodels\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\viewmodels\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\newclients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\newclients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\newclients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\images\\job-promotion.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\images\\job-promotion.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\images\\job-promotion.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\database.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\database.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\database.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\viewmodels\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\viewmodels\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\viewmodels\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\ajouterservice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\ajouterservice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\ajouterservice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\viewmodels\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\viewmodels\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\viewmodels\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\views\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\views\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\views\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\viewmodels\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\viewmodels\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\viewmodels\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brunel\\AppData\\Local\\Temp\\.vsdbgsrc\\684ff8f5a85f6ded57bcf23b706677fbbf48c9a3b57e2406bcdf83ea628e9173\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofactv5\\autofact-v5\\autofact\\fav.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|c:\\users\\brunel\\documents\\autofact-v6\\autofact\\fav.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3D02F7-6108-4BDB-AD43-DFC8C00ED593}|AutoFact\\AutoFact.csproj|solutionrelative:autofact\\fav.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brunel\\Documents\\ModifierAutoEntrepreneurPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AutoFact\\Devis.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AutoFact\\Devis.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AutoFact\\ModifierAutoEntrepreneurPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AutoFact\\ModifierAutoEntrepreneurPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -166,9 +162,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ModifierService.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierService.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ModifierService.xaml",
               "RelativeDocumentMoniker": "AutoFact\\ModifierService.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierService.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ModifierService.xaml",
               "RelativeToolTip": "AutoFact\\ModifierService.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-17T13:05:17.426Z"
@@ -178,9 +174,9 @@
               "DocumentIndex": 31,
               "Title": "Devis.xaml.cs",
               "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml.cs",
-              "RelativeDocumentMoniker": "AutoFact\\Devis.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml.cs",
               "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml.cs",
-              "RelativeToolTip": "AutoFact\\Devis.xaml.cs",
+              "RelativeToolTip": "..\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAA1wDYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T14:14:34.6Z"
@@ -190,9 +186,9 @@
               "DocumentIndex": 32,
               "Title": "Devis.xaml",
               "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml",
-              "RelativeDocumentMoniker": "AutoFact\\Devis.xaml",
+              "RelativeDocumentMoniker": "..\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml",
               "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml",
-              "RelativeToolTip": "AutoFact\\Devis.xaml",
+              "RelativeToolTip": "..\\AutofactV5\\Autofact-V5\\AutoFact\\Devis.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-03-19T14:14:07.1Z"
             },
@@ -200,9 +196,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Page1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Page1.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\Page1.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Page1.xaml.cs",
               "RelativeToolTip": "AutoFact\\Page1.xaml.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAIwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,9 +208,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "NewClients.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\NewClients.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\NewClients.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\NewClients.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\NewClients.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\NewClients.xaml.cs",
               "RelativeToolTip": "AutoFact\\NewClients.xaml.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwCcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,9 +220,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "NewClients.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\NewClients.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\NewClients.xaml",
               "RelativeDocumentMoniker": "AutoFact\\NewClients.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\NewClients.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\NewClients.xaml",
               "RelativeToolTip": "AutoFact\\NewClients.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-03-13T14:32:12.517Z"
@@ -235,9 +231,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "database.db",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\database.db",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\database.db",
               "RelativeDocumentMoniker": "AutoFact\\database.db",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\database.db",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\database.db",
               "RelativeToolTip": "AutoFact\\database.db",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPdVNLT1NBGD3a23gJKaJUwsIEUaMoL2NsGyqxoCYEDRuKi0ZW3WHkL0D8BWqkJsLKQlsX9bGrNhqqRKRutCVp1BhFEiUxVyVx0Ud67/DN3EcvsZ7ck2/uN9/MnDkzswsGYrEY0xgD0zQwippGbabBzPEoORxb5Upl6Nrk5HsxiBeaWFhcZKqqWqxyVmuMx\u002BOsUCiwufn5P3dmI6eMYdhtRLEKh0pRVTlVQZpIkMPtduOs398sSdKSSBBqE5hqKJBovW1B/49Go0ilUihXys0iQZCMKPbMYQ7OrmaRza7C6/PBRxwbC4oe8gGzkYio4bApIPOM9v3oAppa23DpSgiyuw13781ZfRwa1ZqwJuAu86p8Lg//uQA6D7cjt/IKPUcOof/CMNbyearSp6HjEpHjHxMzmSU0NjTgUTKJUCiEJw\u002BT2OtyUT5DKkXJjtPbqYAQGBxEsVhEcHwciUQCl0dHsf5tA1W5CS\u002BWV1AqlcivOlvQZTH09vTi9fJLfF7fgGcggHcfvkBpbEc4HIay/zje5tb\u002Bp0A3kXPi6gSUzR94/CCON3Qaw8da8PzrX4x0HsD3n7/rm1i7BxSJHq8X16em4OnrRvrTL1zscOHpRwVn\u002Brrqmyjugf4JmjjdfQL7lALSz9Locm7hYGuL5ReHTUFNlgAVcVV7ZBlDA/0IjpzHyaMdkOnfXmvzgN9BenGSQ6dTgrMORa1tC9ZzvnnrNm2NjKROvjI/KhGNnFiA2vozZ7gxM01jgW0oG0\u002BFgH6cagAAAABJRU5ErkJggg==",
               "WhenOpened": "2024-03-13T14:32:04.774Z"
@@ -246,9 +242,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Services.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Services.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Services.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\Services.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Services.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Services.xaml.cs",
               "RelativeToolTip": "AutoFact\\Services.xaml.cs",
               "ViewState": "AQIAAGAAAAAAAAAAAAAowJIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,9 +254,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "AjouterService.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\AjouterService.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\AjouterService.xaml",
               "RelativeDocumentMoniker": "AutoFact\\AjouterService.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\AjouterService.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\AjouterService.xaml",
               "RelativeToolTip": "AutoFact\\AjouterService.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-03-12T16:05:02.301Z"
@@ -269,9 +265,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "job-promotion.png - PNG [512x512, 32\u00A0bits, PNG]",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Images\\job-promotion.png",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Images\\job-promotion.png",
               "RelativeDocumentMoniker": "AutoFact\\Images\\job-promotion.png",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Images\\job-promotion.png - PNG [512x512, 32\u00A0bits, PNG]",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Images\\job-promotion.png - PNG [512x512, 32\u00A0bits, PNG]",
               "RelativeToolTip": "AutoFact\\Images\\job-promotion.png - PNG [512x512, 32\u00A0bits, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-03-12T15:48:58.499Z",
@@ -281,9 +277,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Services.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Services.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Services.xaml",
               "RelativeDocumentMoniker": "AutoFact\\Services.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Services.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Services.xaml",
               "RelativeToolTip": "AutoFact\\Services.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-03-12T15:43:51.888Z"
@@ -292,9 +288,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "AjouterService.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\AjouterService.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\AjouterService.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\AjouterService.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\AjouterService.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\AjouterService.xaml.cs",
               "RelativeToolTip": "AutoFact\\AjouterService.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,9 +300,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Views\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AutoFact\\Views\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Views\\MainWindow.xaml",
               "RelativeToolTip": "AutoFact\\Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2023-12-20T13:16:56.053Z"
@@ -315,9 +311,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ViewModels\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ViewModels\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\ViewModels\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ViewModels\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ViewModels\\MainWindow.xaml.cs",
               "RelativeToolTip": "AutoFact\\ViewModels\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,9 +324,9 @@
               "DocumentIndex": 33,
               "Title": "ModifierAutoEntrepreneurPage.xaml",
               "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml",
-              "RelativeDocumentMoniker": "AutoFact\\ModifierAutoEntrepreneurPage.xaml",
+              "RelativeDocumentMoniker": "..\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml",
               "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml",
-              "RelativeToolTip": "AutoFact\\ModifierAutoEntrepreneurPage.xaml",
+              "RelativeToolTip": "..\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2023-12-20T13:16:55.393Z"
             },
@@ -339,9 +335,9 @@
               "DocumentIndex": 34,
               "Title": "ModifierAutoEntrepreneurPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml.cs",
-              "RelativeDocumentMoniker": "AutoFact\\ModifierAutoEntrepreneurPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml.cs",
               "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml.cs",
-              "RelativeToolTip": "AutoFact\\ModifierAutoEntrepreneurPage.xaml.cs",
+              "RelativeToolTip": "..\\AutofactV5\\Autofact-V5\\AutoFact\\ModifierAutoEntrepreneurPage.xaml.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAADYAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-20T13:16:55.409Z"
@@ -350,9 +346,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "parametres.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ViewModels\\parametres.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ViewModels\\parametres.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\ViewModels\\parametres.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ViewModels\\parametres.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ViewModels\\parametres.xaml.cs",
               "RelativeToolTip": "AutoFact\\ViewModels\\parametres.xaml.cs",
               "ViewState": "AQIAAE0AAAAAAAAAAAAkwLwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -363,9 +359,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "RegisterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Views\\RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Views\\RegisterPage.xaml",
               "RelativeDocumentMoniker": "AutoFact\\Views\\RegisterPage.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Views\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Views\\RegisterPage.xaml",
               "RelativeToolTip": "AutoFact\\Views\\RegisterPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2023-12-20T13:16:55.409Z"
@@ -374,9 +370,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "WelComePage.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Views\\WelComePage.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Views\\WelComePage.xaml",
               "RelativeDocumentMoniker": "AutoFact\\Views\\WelComePage.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Views\\WelComePage.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Views\\WelComePage.xaml",
               "RelativeToolTip": "AutoFact\\Views\\WelComePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2023-12-20T13:16:56.051Z"
@@ -385,9 +381,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "fav.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\fav.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\fav.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\fav.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\fav.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\fav.xaml.cs",
               "RelativeToolTip": "AutoFact\\fav.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -397,9 +393,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ETATS.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ETATS.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ETATS.xaml",
               "RelativeDocumentMoniker": "AutoFact\\ETATS.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ETATS.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ETATS.xaml",
               "RelativeToolTip": "AutoFact\\ETATS.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2023-12-20T13:16:56.053Z"
@@ -408,9 +404,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\App.xaml",
               "RelativeDocumentMoniker": "AutoFact\\App.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\App.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\App.xaml",
               "RelativeToolTip": "AutoFact\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2023-12-20T13:16:56.056Z"
@@ -419,9 +415,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "parametres.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Views\\parametres.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Views\\parametres.xaml",
               "RelativeDocumentMoniker": "AutoFact\\Views\\parametres.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Views\\parametres.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Views\\parametres.xaml",
               "RelativeToolTip": "AutoFact\\Views\\parametres.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2023-12-20T13:16:56.05Z"
@@ -430,9 +426,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ViewModels\\LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ViewModels\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\ViewModels\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ViewModels\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ViewModels\\LoginPage.xaml.cs",
               "RelativeToolTip": "AutoFact\\ViewModels\\LoginPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -442,9 +438,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "RegisterPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ViewModels\\RegisterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ViewModels\\RegisterPage.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\ViewModels\\RegisterPage.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ViewModels\\RegisterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ViewModels\\RegisterPage.xaml.cs",
               "RelativeToolTip": "AutoFact\\ViewModels\\RegisterPage.xaml.cs",
               "ViewState": "AQIAAH8AAAAAAAAAAAAcwK0AAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -454,9 +450,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AutoFact\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\AssemblyInfo.cs",
               "RelativeToolTip": "AutoFact\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -466,9 +462,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Views\\LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Views\\LoginPage.xaml",
               "RelativeDocumentMoniker": "AutoFact\\Views\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Views\\LoginPage.xaml",
               "RelativeToolTip": "AutoFact\\Views\\LoginPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2023-12-20T13:16:55.409Z"
@@ -477,9 +473,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\App.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\App.xaml.cs",
               "RelativeToolTip": "AutoFact\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -489,9 +485,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "WelComePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ViewModels\\WelComePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ViewModels\\WelComePage.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\ViewModels\\WelComePage.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ViewModels\\WelComePage.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ViewModels\\WelComePage.xaml.cs",
               "RelativeToolTip": "AutoFact\\ViewModels\\WelComePage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -501,9 +497,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "fav.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\fav.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\fav.xaml",
               "RelativeDocumentMoniker": "AutoFact\\fav.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\fav.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\fav.xaml",
               "RelativeToolTip": "AutoFact\\fav.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2023-12-20T13:16:56.052Z"
@@ -513,9 +509,9 @@
               "DocumentIndex": 28,
               "Title": "NavigationService.cs",
               "DocumentMoniker": "C:\\Users\\brunel\\AppData\\Local\\Temp\\.vsdbgsrc\\684ff8f5a85f6ded57bcf23b706677fbbf48c9a3b57e2406bcdf83ea628e9173\\NavigationService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\684ff8f5a85f6ded57bcf23b706677fbbf48c9a3b57e2406bcdf83ea628e9173\\NavigationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\684ff8f5a85f6ded57bcf23b706677fbbf48c9a3b57e2406bcdf83ea628e9173\\NavigationService.cs",
               "ToolTip": "C:\\Users\\brunel\\AppData\\Local\\Temp\\.vsdbgsrc\\684ff8f5a85f6ded57bcf23b706677fbbf48c9a3b57e2406bcdf83ea628e9173\\NavigationService.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\684ff8f5a85f6ded57bcf23b706677fbbf48c9a3b57e2406bcdf83ea628e9173\\NavigationService.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\684ff8f5a85f6ded57bcf23b706677fbbf48c9a3b57e2406bcdf83ea628e9173\\NavigationService.cs",
               "ViewState": "AQIAADwEAAAAAAAAAAAjwEkEAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-18T14:17:11.672Z"
@@ -524,9 +520,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Page1.xaml",
               "RelativeDocumentMoniker": "AutoFact\\Page1.xaml",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\Page1.xaml",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\Page1.xaml",
               "RelativeToolTip": "AutoFact\\Page1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2023-12-20T13:16:56.055Z"
@@ -535,9 +531,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ETATS.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ETATS.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ETATS.xaml.cs",
               "RelativeDocumentMoniker": "AutoFact\\ETATS.xaml.cs",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\ETATS.xaml.cs",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\ETATS.xaml.cs",
               "RelativeToolTip": "AutoFact\\ETATS.xaml.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAADwvyQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -547,9 +543,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AutoFact.csproj",
-              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\AutoFact.csproj",
+              "DocumentMoniker": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\AutoFact.csproj",
               "RelativeDocumentMoniker": "AutoFact\\AutoFact.csproj",
-              "ToolTip": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\AutoFact.csproj",
+              "ToolTip": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\AutoFact.csproj",
               "RelativeToolTip": "AutoFact\\AutoFact.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -560,9 +556,9 @@
               "DocumentIndex": 30,
               "Title": "ModifierAutoEntrepreneurPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\brunel\\Documents\\ModifierAutoEntrepreneurPage.xaml.cs",
-              "RelativeDocumentMoniker": "..\\..\\ModifierAutoEntrepreneurPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\ModifierAutoEntrepreneurPage.xaml.cs",
               "ToolTip": "C:\\Users\\brunel\\Documents\\ModifierAutoEntrepreneurPage.xaml.cs",
-              "RelativeToolTip": "..\\..\\ModifierAutoEntrepreneurPage.xaml.cs",
+              "RelativeToolTip": "..\\ModifierAutoEntrepreneurPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-18T10:11:28.495Z"

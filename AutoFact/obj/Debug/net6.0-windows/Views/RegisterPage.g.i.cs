@@ -148,7 +148,7 @@ namespace RegistrationLoginConcept {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AutoFact;component/views/registerpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AutoFact;V1.0.0.0;component/views/registerpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\RegisterPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

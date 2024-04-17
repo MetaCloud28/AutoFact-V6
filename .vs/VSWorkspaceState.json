@@ -5,6 +5,6 @@
     "\\AutoFact\\ViewModels",
     "\\AutoFact\\Views"
   ],
-  "SelectedNode": "\\AutoFact\\parametres.xaml",
+  "SelectedNode": "\\AutoFact\\ViewModels\\parametres.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

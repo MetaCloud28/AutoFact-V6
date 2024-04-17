@@ -61,7 +61,7 @@ namespace AutoFact {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AutoFact;component/fav.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AutoFact;V1.0.0.0;component/fav.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\fav.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

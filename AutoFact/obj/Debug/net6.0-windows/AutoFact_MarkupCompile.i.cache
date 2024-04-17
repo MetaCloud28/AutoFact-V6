@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\obj\Debug\net6.0-windows\
+C:\Users\brunel\Documents\AutoFact-V6\AutoFact\obj\Debug\net6.0-windows\
 AutoFact
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\brunel\Documents\AutofactV5\Autofact-V5\AutoFact\App.xaml
+C:\Users\brunel\Documents\AutoFact-V6\AutoFact\App.xaml
 141883527964
 
 181138964245
 1971235279520
 AjouterService.xaml;ETATS.xaml;fav.xaml;ModifierService.xaml;NewClients.xaml;Page1.xaml;Services.xaml;Views\Devis.xaml;Views\LoginPage.xaml;Views\MainWindow.xaml;Views\ModifierAutoEntrepreneurPage.xaml;Views\parametres.xaml;Views\RegisterPage.xaml;Views\WelComePage.xaml;
 
-False
+True
 

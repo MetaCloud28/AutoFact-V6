@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z9Xp7ANbdhaq8IqKQ0xioY23LZQ04BN34xGA5BYGen9tjXa7jUxWxRc/TmGGVhPOKRthHdBbXdDS15HgvGxf1Q==",
+  "dgSpecHash": "YWN60AKgIwKsuq9IEEnlcLwPq5IfZAPL34zM90iMOy/ZRATj6XqB4LcLuEA0KOfVY3AR2E6vxoh9zQjoXYi74g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brunel\\Documents\\AutofactV5\\Autofact-V5\\AutoFact\\AutoFact.csproj",
+  "projectFilePath": "C:\\Users\\brunel\\Documents\\AutoFact-V6\\AutoFact\\AutoFact.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brunel\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512",
     "C:\\Users\\brunel\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
